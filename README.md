@@ -1,2 +1,2 @@
-# StudentDataManagementSystem-ASP.NET
+# StudentDataManagementSystem
 A StudentManagementSystem by ASP.NET.
